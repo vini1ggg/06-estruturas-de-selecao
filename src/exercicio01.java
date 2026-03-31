@@ -18,7 +18,7 @@ public class exercicio01 {
         if (media>= 6){
             System.out.print("aprovado!!!! 🙌");
         } else {
-            System.out.print("repovado deréq! 👎");
+            System.out.print("repovado! 👎");
         }
 
     }
